@@ -1,0 +1,38 @@
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\c sharp project for marks.exe
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\c sharp project for marks.deps.json
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\c sharp project for marks.runtimeconfig.json
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\c sharp project for marks.dll
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\c sharp project for marks.pdb
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\obj\Debug\net6.0-windows\c sharp project for marks.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\obj\Debug\net6.0-windows\c sharp project for marks.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\obj\Debug\net6.0-windows\c sharp project for marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\obj\Debug\net6.0-windows\c sharp project for marks.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\obj\Debug\net6.0-windows\c sharp project for marks.AssemblyInfo.cs
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\obj\Debug\net6.0-windows\c sharp project for marks.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\obj\Debug\net6.0-windows\c sharp project for marks.dll
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\obj\Debug\net6.0-windows\refint\c sharp project for marks.dll
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\obj\Debug\net6.0-windows\c sharp project for marks.pdb
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\obj\Debug\net6.0-windows\c sharp project for marks.genruntimeconfig.cache
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\obj\Debug\net6.0-windows\ref\c sharp project for marks.dll
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\Krypton.Toolkit.dll
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\obj\Debug\net6.0-windows\c_sharp_project_for_marks.loading.resources
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\obj\Debug\net6.0-windows\c_sharp_project_for_marks.login.resources
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\obj\Debug\net6.0-windows\c_sharp_project_for_marks.registration.resources
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\obj\Debug\net6.0-windows\c sharp project for marks.csproj.CopyComplete
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Docking.dll
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Navigator.dll
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Workspace.dll
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Docking.pdb
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\pc\Desktop\c# project\c sharp project for marks\c sharp project for marks\obj\Debug\net6.0-windows\c_sharp_project_for_marks.Properties.Resources.resources
